@@ -9,27 +9,27 @@ h1, h2 {
     font-family: charm , sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #252525;
+    color: #05460a;
 }
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 220%;
     margin-left: 2.5%;
 }
 
 #menu {
     font-size: 110%;
-    letter-spacing: 2px;
+    letter-spacing: 4px;
 }
 #menu, #logo {
     line-height: 75px;
 
 }
 #menu li {
-    float: right;
+    float: inline-end;
     list-style-type: none;
-    margin: 30px;
+    margin-right: 25px;
 }
 #menu a {
     text-decoration: none;
@@ -40,6 +40,24 @@ h1, h2 {
 }
 .active {
     border-bottom: 1px solid #064b1a;
+}
+
+/* styles for the shop front*/
+#outer-style {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    
+    position: relative;
+}
+
+#shop-front {
+    height: 600px;
+    width: 100%;
+    background-image: url(../image/front\ of\ a\ flower\ shop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 /* footer styles */
