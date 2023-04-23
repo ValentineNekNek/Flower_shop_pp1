@@ -1,7 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm&family=Lato:wght@300&display=swap');
+
 body {
-    background-color: lightblue;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: #0c350c;
+}
+h1, h2 {
+    font-family: charm , sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #252525;
 }
 
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 2.5%;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+#menu, #logo {
+    line-height: 75px;
+
+}
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin: 30px;
+}
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+#menu a:hover{
+    border-bottom: 1px solid #064b1a;
+}
+.active {
+    border-bottom: 1px solid #064b1a;
+}
+
+/* footer styles */
 footer {
     height: 150px;
 }
