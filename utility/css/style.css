@@ -93,20 +93,16 @@ h1, h2 {
     display: inline-flex;
     align-items: center;
 }
-#about-wellcome {
-    border-bottom: solid;
-}
-
 #left-side {
     font-size: 120%;
     min-height: 80px;
     margin-top: 30px;
-    margin-left: 45px;
+    margin-left: 20px;
     margin-right: 124px;
 }
 #left-side {
     float: left;
-    margin: 0 30px 0 45px;
+    margin: 0 20px 0 15px;
 }
 
 #img-about img {
