@@ -148,6 +148,10 @@ form{
     font-size: 120%;
     padding: 10px;
 }
+#form-box {
+    background-color: white;
+}
+
 textarea {
     width: 100%;
     height: 150px;
@@ -175,4 +179,5 @@ input[type=reset] {
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 8px;
+    margin: 20px 15px 10px 0;
 }
