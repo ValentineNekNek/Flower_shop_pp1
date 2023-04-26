@@ -33,22 +33,23 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
   - This image provides an excellent visual representation of the front of our shop. It offers a clear view of our storefront.
   - By showcasing our storefront in this way, we hope to communicate our professionalism, attention to detail, and commitment to providing the highest quality service to our clients.
-  
+
 ![Alt text](assets/image-for-readme/front%20of%20the%20shop.png)
 
 - __About Us Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The "About Us" section of our website is intended to provide you with a brief but informative overview of our business. Here, you will find information about our company's history, values, and future.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+  - By sharing this information with you, we hope to build trust and establish a strong connection between our business and our clients.
 
-- __Meetup Times section__
+![Alt text](assets/image-for-readme/about%20us%20section.png)
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+- __Business Hour And Contact Information__
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  - This section of our website is designed to provide you with essential information about our business and how to get in touch with us.
+  - Here, you will find our working hours, location, and contact information, including our phone number and email address. 
+
+![Alt text](assets/image-for-readme/contact.png)
 
 - __The Footer__ 
 
