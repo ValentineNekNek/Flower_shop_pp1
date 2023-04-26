@@ -46,8 +46,8 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
 - __Business Hour And Contact Information__
 
-  - This section of our website is designed to provide you with essential information about our business and how to get in touch with us.
-  - Here, you will find our working hours, location, and contact information, including our phone number and email address. 
+  - This section of the website is designed to provide you with essential information about the business and how to get in touch with.
+  - Here, you will find the working hours, location, and contact information, including the phone number and email address. 
 
 ![Alt text](assets/image-for-readme/contact.png)
 
@@ -58,14 +58,14 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
 ![Alt text](assets/image-for-readme/social%20media.png)
 
-- __Gallery__
+- __The Workshop Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This section of our website is intended to give you a more detailed understanding of our flower business.
+  - Whether the user is interested in wedding flowers, corporate event design, or simply want to browse our portfolio, workshop section offers a comprehensive look at the services it offer and the work we do. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Alt text](assets/image-for-readme/workshop%20section.png)
 
-- __The Sign Up Page__
+- __The Feedback Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
