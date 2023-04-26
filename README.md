@@ -10,7 +10,7 @@ In addition to our floral arrangements, we also have a variety of flower pots an
 
 At Bouquets and Flower Pots, we strive to provide excellent customer service and create a welcoming and friendly atmosphere for all who visit our shop. We believe that flowers have the power to brighten anyone's day and we are committed to helping our customers find the perfect arrangement to do just that.
 
-![Alt text](../Flower_shop_pp1/assets/image-for-readme/am%20i%20responsive.png)
+![Alt text](assets/image-for-readme/am%20i%20responsive.png)
 
 ## Features 
 
@@ -27,14 +27,13 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
   - The navigation bar is a key feature of our website, designed to provide you with quick and easy access to all three sections of our site - the home page, workshop section, and feedback page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Alt text](../Flower_shop_pp1/assets/image-for-readme/navigation%20bar.png)
+![Alt text](assets/image-for-readme/navigation%20bar.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+  - This image provides an excellent visual representation of the front of our shop. It offers a clear view of our storefront.
+  - By showcasing our storefront in this way, we hope to communicate our professionalism, attention to detail, and commitment to providing the highest quality service to our clients.
+![Alt text](assets/image-for-readme/front%20of%20the%20shop.png)
 
 - __Club Ethos Section__
 
