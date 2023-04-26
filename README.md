@@ -1,10 +1,16 @@
-# Love Running
+# Bouquets And Flower Pots
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Bouquets and Flower Pots is a flower shop website that is dedicated to providing customers with beautiful and high-quality floral arrangements for all occasions. Our website caters to people of all ages and genders who want to make their loved one's day more beautiful, whether it be for a birthday, anniversary, wedding, or any other special event.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+We offer a wide variety of flowers, ranging from classic roses to unique and exotic blooms, to suit the specific needs and preferences of our customers. Our skilled florists are passionate about their craft and use their expertise to create stunning arrangements that will leave a lasting impression.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+We also have a selection of pre-designed bouquets and flower arrangements for customers who are in a rush or need some inspiration. Our pre-designed arrangements are perfect for last-minute gifts or for those who may be unsure of what flowers to choose.
+
+In addition to our floral arrangements, we also have a variety of flower pots and vases available for purchase. These decorative vessels are the perfect complement to any floral arrangement and can be used to display flowers in any home or office space.
+
+At Bouquets and Flower Pots, we strive to provide excellent customer service and create a welcoming and friendly atmosphere for all who visit our shop. We believe that flowers have the power to brighten anyone's day and we are committed to helping our customers find the perfect arrangement to do just that.
+
+![Alt text](../Flower_shop_pp1/assets/image-for-readme/am%20i%20responsive.png)
 
 ## Features 
 
@@ -138,3 +144,6 @@ Below you will find a couple of extra tips that may be helpful when completing y
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
 Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+
+
+[def]: assets/image-for-readme/am%20i%20responsive.png
