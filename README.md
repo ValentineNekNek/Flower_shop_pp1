@@ -24,10 +24,10 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - The navigation bar is a key feature of our website, designed to provide you with quick and easy access to all three sections of our site - the home page, workshop section, and feedback page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Alt text](../Flower_shop_pp1/assets/image-for-readme/navigation%20bar.png)
 
 - __The landing page image__
 
