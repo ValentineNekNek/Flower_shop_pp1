@@ -14,7 +14,11 @@ At Bouquets and Flower Pots, we strive to provide excellent customer service and
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The home page is designed to offer a quick introduction to our business and provide essential information about who we are. Additionally, we want to make it easy for you to get in touch with us by including our contact details.
+
+The workshop section of our website is intended to provide you with more in-depth information about our work and experience. Here, you will find detailed descriptions of our services, along with examples of past projects we have worked on.
+
+Our feedback page is designed to give you, as a valued client, the opportunity to share your thoughts and experiences with us. We welcome both positive and negative feedback and strive to use it to improve our services and better meet your needs.
 
 ### Existing Features
 
