@@ -196,6 +196,9 @@ input[type=reset] {
     flex-direction: column;
     border-radius: 20px;
 }
+.workshop-heading {
+    margin-bottom: 5px
+}
 
 .workshop {
     margin: 10px;
