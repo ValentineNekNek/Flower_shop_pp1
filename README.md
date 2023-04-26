@@ -53,10 +53,10 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Bouquets And Flower Pots. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Alt text](assets/image-for-readme/social%20media.png)
 
 - __Gallery__
 
