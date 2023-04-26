@@ -33,9 +33,10 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
   - This image provides an excellent visual representation of the front of our shop. It offers a clear view of our storefront.
   - By showcasing our storefront in this way, we hope to communicate our professionalism, attention to detail, and commitment to providing the highest quality service to our clients.
+  
 ![Alt text](assets/image-for-readme/front%20of%20the%20shop.png)
 
-- __Club Ethos Section__
+- __About Us Section__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
