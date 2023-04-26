@@ -185,6 +185,23 @@ input[type=reset] {
     width: 120px;
 }
 
+/* workshop css*/
+
+.work-img {
+    float: right;
+    width: 25%;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.workshop {
+    margin: 10px;
+    text-align: left;
+}
+
 /* media quary for mobile device */
 
 @media only screen and (max-width: 600px) {
@@ -194,5 +211,16 @@ input[type=reset] {
         display: inline-flex;
         align-items: center;
         flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .work-img {
+        width: 90%;
+        padding: 15px 10px 15px 0px;
+        display: inline-flex;
+        align-items: center;
+        flex-direction: column;
+        border-radius: 30px;
     }
 }
