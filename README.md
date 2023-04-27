@@ -89,10 +89,16 @@ Our feedback page is designed to give people the opportunity to share your thoug
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official 
+  - No errors were returned when passing through the official testers
 
 - CSS
-  - No errors were found when passing through the official 
+  - No errors were found when passing through the official testers
+
+- ACCESSIBILITY
+  - I have confirmed that the colors and font chosen are easy to read by running it through the lighthouse in devtools.
+
+![Alt text](assets/image-for-readme/lighthouse_test.png)
+
 
 ### Unfixed Bugs
 
