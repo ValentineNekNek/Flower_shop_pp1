@@ -71,7 +71,9 @@ Our feedback page is designed to give people the opportunity to share your thoug
 
 ### Features Left to Implement
 
-- Another feature idea
+- Another feature that I'm looking to implement in the future is a gallery page for my shop, giving people the chance to view our work without on the website without accesing the social media.
+
+- Making the contact button work on all our pages, as I could not implement that as it requires some Java knowledge
 
 ## Testing 
 
