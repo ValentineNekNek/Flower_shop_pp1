@@ -8,23 +8,21 @@ We also have a selection of pre-designed bouquets and flower arrangements for cu
 
 In addition to our floral arrangements, we also have a variety of flower pots and vases available for purchase. These decorative vessels are the perfect complement to any floral arrangement and can be used to display flowers in any home or office space.
 
-At Bouquets and Flower Pots, we strive to provide excellent customer service and create a welcoming and friendly atmosphere for all who visit our shop. We believe that flowers have the power to brighten anyone's day and we are committed to helping our customers find the perfect arrangement to do just that.
-
 ![Alt text](assets/image-for-readme/am%20i%20responsive.png)
 
 ## Features 
 
-The home page is designed to offer a quick introduction to our business and provide essential information about who we are. Additionally, we want to make it easy for you to get in touch with us by including our contact details.
+The home page is designed to offer a quick introduction to our business and provide essential information about who we are. Additionally, we want to make it easy for people to get in touch with us by including our contact details.
 
 The workshop section of our website is intended to provide you with more in-depth information about our work and experience. Here, you will find detailed descriptions of our services, along with examples of past projects we have worked on.
 
-Our feedback page is designed to give you, as a valued client, the opportunity to share your thoughts and experiences with us. We welcome both positive and negative feedback and strive to use it to improve our services and better meet your needs.
+Our feedback page is designed to give people the opportunity to share your thoughts and experiences with our shop. We welcome both positive and negative feedback and strive to use it to improve our services and better meet your needs.
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - The navigation bar is a key feature of our website, designed to provide you with quick and easy access to all three sections of our site - the home page, workshop section, and feedback page.
+  - The navigation bar is a key feature of our website, designed to provide you with quick and easy access to all three pages of our site - the home page, workshop page, and feedback page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Alt text](assets/image-for-readme/navigation%20bar.png)
@@ -32,7 +30,7 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 - __The landing page image__
 
   - This image provides an excellent visual representation of the front of our shop. It offers a clear view of our storefront.
-  - By showcasing our storefront in this way, we hope to communicate our professionalism, attention to detail, and commitment to providing the highest quality service to our clients.
+  - By showcasing our storefront in this way, we hope to communicate our professionalism, attention to detail, and commitment to providing the highest quality service. 
 
 ![Alt text](assets/image-for-readme/front%20of%20the%20shop.png)
 
@@ -40,7 +38,7 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
   - The "About Us" section of our website is intended to provide you with a brief but informative overview of our business. Here, you will find information about our company's history, values, and future.
 
-  - By sharing this information with you, we hope to build trust and establish a strong connection between our business and our clients.
+  - By sharing this information with reader, we hope to build trust and establish a strong connection between our business and our clients.
 
 ![Alt text](assets/image-for-readme/about%20us%20section.png)
 
@@ -54,7 +52,8 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Bouquets And Flower Pots. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  - The footer idea was taken from Love Running project.
 
 ![Alt text](assets/image-for-readme/social%20media.png)
 
@@ -69,11 +68,6 @@ Our feedback page is designed to give you, as a valued client, the opportunity t
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
