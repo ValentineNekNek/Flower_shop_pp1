@@ -116,14 +116,12 @@ The live link can be found here - https://valentineneknek.github.io/Flower_shop_
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+ -The footer for my website was taken from the Love Running project, as is visually straightforward.
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article 
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- All text from the website and readme file has been run thru Grammarly and improved in some regions.
+- All font used on the website were taken from [Google Fonts](https://fonts.google.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
