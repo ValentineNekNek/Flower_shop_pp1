@@ -8,7 +8,7 @@ We also have a selection of pre-designed bouquets and flower arrangements for cu
 
 In addition to our floral arrangements, we also have a variety of flower pots and vases available for purchase. These decorative vessels are the perfect complement to any floral arrangement and can be used to display flowers in any home or office space.
 
-![Alt text](assets/image-for-readme/am%20i%20responsive.png)
+![Alt text](assets/image-for-readme/am_i_responsive.png)
 
 ## Features 
 
@@ -25,14 +25,14 @@ Our feedback page is designed to give people the opportunity to share your thoug
   - The navigation bar is a key feature of our website, designed to provide you with quick and easy access to all three pages of our site - the home page, workshop page, and feedback page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Alt text](assets/image-for-readme/navigation%20bar.png)
+![Alt text](assets/image-for-readme/navigation_bar.png)
 
 - __The landing page image__
 
   - This image provides an excellent visual representation of the front of our shop. It offers a clear view of our storefront.
   - By showcasing our storefront in this way, we hope to communicate our professionalism, attention to detail, and commitment to providing the highest quality service. 
 
-![Alt text](assets/image-for-readme/front%20of%20the%20shop.png)
+![Alt text](assets/image-for-readme/front_of_the_shop.png)
 
 - __About Us Section__
 
@@ -40,7 +40,7 @@ Our feedback page is designed to give people the opportunity to share your thoug
 
   - By sharing this information with reader, we hope to build trust and establish a strong connection between our business and our clients.
 
-![Alt text](assets/image-for-readme/about%20us%20section.png)
+![Alt text](assets/image-for-readme/about_us_section.png)
 
 - __Business Hour And Contact Information__
 
@@ -55,19 +55,20 @@ Our feedback page is designed to give people the opportunity to share your thoug
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   - The footer idea was taken from Love Running project.
 
-![Alt text](assets/image-for-readme/social%20media.png)
+![Alt text](assets/image-for-readme/social_media.png)
 
 - __The Workshop Page__
 
   - This section of our website is intended to give you a more detailed understanding of our flower business.
   - Whether the user is interested in wedding flowers, corporate event design, or simply want to browse our portfolio, workshop section offers a comprehensive look at the services it offer and the work we do. 
 
-![Alt text](assets/image-for-readme/workshop%20section.png)
+![Alt text](assets/image-for-readme/workshop_section.png)
 
 - __The Feedback Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
+|![Alt text](assets/image-for-readme/feedback_page.png)
 
 ### Features Left to Implement
 
