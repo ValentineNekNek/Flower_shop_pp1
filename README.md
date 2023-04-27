@@ -106,14 +106,12 @@ Our feedback page is designed to give people the opportunity to share your thoug
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - On the right side we have a section called "Pages"
+  - After selecting "Pages" on the left side on top under the  Title name "GitHub Pages" is were I clicked "Vizit site" and it open a new tab with my website.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://valentineneknek.github.io/Flower_shop_pp1/index.html 
 
 
 ## Credits 
@@ -124,7 +122,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
+- The text for the Home page was taken from Wikipedia Article 
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
