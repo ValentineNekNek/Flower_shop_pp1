@@ -118,10 +118,10 @@ The live link can be found here - https://valentineneknek.github.io/Flower_shop_
 
  - The footer for my website was taken from the Love Running project, as is visually straightforward.
  - My mentor for always giving good advice and guiding me throughout the project, and making sure that I follow good coding  practices such as:  
-      - better commits as my were short and vague and were not good for a team environment 
-      - what are media queris and where to find information about them 
-      - better file naming as mine contained spaces 
-      - general good advice on what direction to go with my website 
+      - better commits as my were short and vague and were not good for a team environment. 
+      - what are media queris and where to find information about them. 
+      - better file naming as mine contained spaces. 
+      - general good advice on what direction to go with my website. 
 
 ### Content 
 
